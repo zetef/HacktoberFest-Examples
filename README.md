@@ -1,2 +1,2 @@
 # HacktoberFest-Examples
-Any Algorithm of the your language 
+Publish hello world! In your prefered language.
